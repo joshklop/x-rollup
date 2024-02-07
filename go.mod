@@ -1,4 +1,4 @@
-module github.com/joshklop/x
+module github.com/joshklop/x-rollup
 
 require (
 	cosmossdk.io/errors v1.0.0

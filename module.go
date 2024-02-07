@@ -14,8 +14,8 @@ import (
 	"github.com/grpc-ecosystem/grpc-gateway/runtime"
 	"github.com/spf13/cobra"
 
-	"github.com/joshklop/x/rollup/keeper"
-	"github.com/joshklop/x/rollup/types"
+	"github.com/joshklop/x-rollup/keeper"
+	"github.com/joshklop/x-rollup/types"
 )
 
 var (

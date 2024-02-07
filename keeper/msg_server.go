@@ -15,7 +15,7 @@ import (
 	"github.com/ethereum-optimism/optimism/op-node/rollup/derive"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 	ethtypes "github.com/ethereum/go-ethereum/core/types"
-	"github.com/joshklop/x/rollup/types"
+	"github.com/joshklop/x-rollup/types"
 	"github.com/samber/lo"
 )
 
